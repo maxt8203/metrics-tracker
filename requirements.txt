@@ -1,0 +1,7 @@
+# Runtime dependencies, pinned. Dev tools live in requirements-dev.txt.
+anthropic==1.15.0
+google-api-python-client==2.201.0
+google-auth-oauthlib==1.5.0
+python-dotenv==1.2.3
+requests==2.34.2
+tzdata==2026.5

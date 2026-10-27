@@ -1,0 +1,20 @@
+# Secrets and personal data — never commit
+.env
+private_config.py
+client_secret*.json
+data/
+*.xlsx
+*.numbers
+tokens*.json
+
+# Generated
+tests/agent_evals/results/
+demo/output/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.venv/
+
+# Private requirements and notes (never committed)
+private/

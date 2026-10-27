@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 610" width="100%" role="img" aria-label="Time split by week" font-family="system-ui, -apple-system, Segoe UI, sans-serif"><rect width="560" height="610" fill="#fcfcfb" rx="8"/>
+<text x="16" y="24" fill="#0b0b0b" font-size="15" font-weight="600">Week of 2 Mar</text>
+<text x="544" y="24" fill="#52514e" font-size="12" text-anchor="end">Booked 80% · packed · 5 packed days</text>
+<rect x="16" y="45" width="10" height="10" rx="2" fill="#2a78d6"/>
+<text x="31" y="50" fill="#52514e" font-size="12" dominant-baseline="central">Work</text>
+<rect x="77.4" y="45" width="10" height="10" rx="2" fill="#eb6834"/>
+<text x="92.4" y="50" fill="#52514e" font-size="12" dominant-baseline="central">Social</text>
+<rect x="152.0" y="45" width="10" height="10" rx="2" fill="#1baf7a"/>
+<text x="167.0" y="50" fill="#52514e" font-size="12" dominant-baseline="central">Personal</text>
+<rect x="239.8" y="45" width="10" height="10" rx="2" fill="#c3c2b7"/>
+<text x="254.8" y="50" fill="#52514e" font-size="12" dominant-baseline="central">Unplanned</text>
+<path d="M280.0,168.0 L280.0,76.0 A92,92 0 0 1 310.4,254.8 Z" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2" stroke-linejoin="round"><title>Week of 2 Mar · Work: 50 h (45%)</title></path>
+<text x="336.2" y="158.4" fill="#ffffff" font-size="13" font-weight="600" text-anchor="middle" dominant-baseline="central" pointer-events="none">45%</text>
+<path d="M280.0,168.0 L310.4,254.8 A92,92 0 0 1 222.6,239.9 Z" fill="#eb6834" stroke="#fcfcfb" stroke-width="2" stroke-linejoin="round"><title>Week of 2 Mar · Social: 18 h (16%)</title></path>
+<text x="270.4" y="224.2" fill="#ffffff" font-size="13" font-weight="600" text-anchor="middle" dominant-baseline="central" pointer-events="none">16%</text>
+<path d="M280.0,168.0 L222.6,239.9 A92,92 0 0 1 193.2,137.6 Z" fill="#1baf7a" stroke="#fcfcfb" stroke-width="2" stroke-linejoin="round"><title>Week of 2 Mar · Personal: 22 h (20%)</title></path>
+<text x="225.2" y="183.8" fill="#ffffff" font-size="13" font-weight="600" text-anchor="middle" dominant-baseline="central" pointer-events="none">20%</text>
+<path d="M280.0,168.0 L193.2,137.6 A92,92 0 0 1 280.0,76.0 Z" fill="#c3c2b7" stroke="#fcfcfb" stroke-width="2" stroke-linejoin="round"><title>Week of 2 Mar · Unplanned: 22 h (20%)</title></path>
+<text x="247.0" y="121.5" fill="#0b0b0b" font-size="13" font-weight="600" text-anchor="middle" dominant-baseline="central" pointer-events="none">20%</text>
+<text x="16" y="286" fill="#0b0b0b" font-size="13" font-weight="600">By week</text>
+<text x="16" y="311.0" fill="#52514e" font-size="12" dominant-baseline="central">12 Jan</text>
+<path d="M72.0,300 h138.8 v22 h-138.8 Z" fill="#2a78d6"><title>Week of 12 Jan · Work: 42 h (38%)</title></path>
+<text x="141.4" y="311.0" fill="#ffffff" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="central" pointer-events="none">38%</text>
+<path d="M212.8,300 h13.2 v22 h-13.2 Z" fill="#eb6834"><title>Week of 12 Jan · Social: 4 h (4%)</title></path>
+<path d="M228.0,300 h33.0 v22 h-33.0 Z" fill="#1baf7a"><title>Week of 12 Jan · Personal: 10 h (9%)</title></path>
+<path d="M263.0,300 h181.0 a4,4 0 0 1 4,4 v14 a4,4 0 0 1 -4,4 h-181.0 Z" fill="#c3c2b7"><title>Week of 12 Jan · Unplanned: 56 h (50%)</title></path>
+<text x="355.5" y="311.0" fill="#0b0b0b" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="central" pointer-events="none">50%</text>
+<text x="16" y="347.0" fill="#52514e" font-size="12" dominant-baseline="central">19 Jan</text>
+<path d="M72.0,336 h66.1 v22 h-66.1 Z" fill="#2a78d6"><title>Week of 19 Jan · Work: 20 h (18%)</title></path>
+<text x="105.0" y="347.0" fill="#ffffff" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="central" pointer-events="none">18%</text>
+<path d="M140.1,336 h6.6 v22 h-6.6 Z" fill="#eb6834"><title>Week of 19 Jan · Social: 2 h (2%)</title></path>
+<path d="M148.7,336 h19.8 v22 h-19.8 Z" fill="#1baf7a"><title>Week of 19 Jan · Personal: 6 h (5%)</title></path>
+<path d="M170.5,336 h273.5 a4,4 0 0 1 4,4 v14 a4,4 0 0 1 -4,4 h-273.5 Z" fill="#c3c2b7"><title>Week of 19 Jan · Unplanned: 84 h (75%)</title></path>
+<text x="309.2" y="347.0" fill="#0b0b0b" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="central" pointer-events="none">75%</text>
+<text x="16" y="383.0" fill="#52514e" font-size="12" dominant-baseline="central">26 Jan</text>
+<path d="M72.0,372 h125.5 v22 h-125.5 Z" fill="#2a78d6"><title>Week of 26 Jan · Work: 38 h (34%)</title></path>
+<text x="134.8" y="383.0" fill="#ffffff" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="central" pointer-events="none">34%</text>
+<path d="M199.5,372 h29.7 v22 h-29.7 Z" fill="#eb6834"><title>Week of 26 Jan · Social: 9 h (8%)</title></path>
+<path d="M231.3,372 h46.2 v22 h-46.2 Z" fill="#1baf7a"><title>Week of 26 Jan · Personal: 14 h (12%)</title></path>
+<text x="254.4" y="383.0" fill="#ffffff" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="central" pointer-events="none">12%</text>
+<path d="M279.5,372 h164.5 a4,4 0 0 1 4,4 v14 a4,4 0 0 1 -4,4 h-164.5 Z" fill="#c3c2b7"><title>Week of 26 Jan · Unplanned: 51 h (46%)</title></path>
+<text x="363.8" y="383.0" fill="#0b0b0b" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="central" pointer-events="none">46%</text>
+<text x="16" y="419.0" fill="#52514e" font-size="12" dominant-baseline="central">2 Feb</text>
+<path d="M72.0,408 h149.5 v22 h-149.5 Z" fill="#2a78d6"><title>Week of 2 Feb · Work: 45 h (40%)</title></path>
+<text x="146.7" y="419.0" fill="#ffffff" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="central" pointer-events="none">40%</text>
+<path d="M223.5,408 h26.6 v22 h-26.6 Z" fill="#1baf7a"><title>Week of 2 Feb · Personal: 8 h (7%)</title></path>
+<path d="M252.0,408 h192.0 a4,4 0 0 1 4,4 v14 a4,4 0 0 1 -4,4 h-192.0 Z" fill="#c3c2b7"><title>Week of 2 Feb · Unplanned: 59 h (53%)</title></path>
+<text x="350.0" y="419.0" fill="#0b0b0b" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="central" pointer-events="none">53%</text>
+<text x="16" y="455.0" fill="#52514e" font-size="12" dominant-baseline="central">9 Feb</text>
+<path d="M72.0,444 h125.5 v22 h-125.5 Z" fill="#2a78d6"><title>Week of 9 Feb · Work: 38 h (34%)</title></path>
+<text x="134.8" y="455.0" fill="#ffffff" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="central" pointer-events="none">34%</text>
+<path d="M199.5,444 h29.7 v22 h-29.7 Z" fill="#eb6834"><title>Week of 9 Feb · Social: 9 h (8%)</title></path>
+<path d="M231.3,444 h46.2 v22 h-46.2 Z" fill="#1baf7a"><title>Week of 9 Feb · Personal: 14 h (12%)</title></path>
+<text x="254.4" y="455.0" fill="#ffffff" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="central" pointer-events="none">12%</text>
+<path d="M279.5,444 h164.5 a4,4 0 0 1 4,4 v14 a4,4 0 0 1 -4,4 h-164.5 Z" fill="#c3c2b7"><title>Week of 9 Feb · Unplanned: 51 h (46%)</title></path>
+<text x="363.8" y="455.0" fill="#0b0b0b" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="central" pointer-events="none">46%</text>
+<text x="16" y="491.0" fill="#52514e" font-size="12" dominant-baseline="central">16 Feb</text>
+<path d="M72.0,480 h99.6 v22 h-99.6 Z" fill="#eb6834"><title>Week of 16 Feb · Social: 30 h (27%)</title></path>
+<text x="121.8" y="491.0" fill="#ffffff" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="central" pointer-events="none">27%</text>
+<path d="M173.6,480 h66.4 v22 h-66.4 Z" fill="#1baf7a"><title>Week of 16 Feb · Personal: 20 h (18%)</title></path>
+<text x="206.9" y="491.0" fill="#ffffff" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="central" pointer-events="none">18%</text>
+<path d="M242.1,480 h201.9 a4,4 0 0 1 4,4 v14 a4,4 0 0 1 -4,4 h-201.9 Z" fill="#c3c2b7"><title>Week of 16 Feb · Unplanned: 62 h (55%)</title></path>
+<text x="345.0" y="491.0" fill="#0b0b0b" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="central" pointer-events="none">55%</text>
+<text x="16" y="527.0" fill="#52514e" font-size="12" dominant-baseline="central">23 Feb</text>
+<path d="M72.0,516 h118.9 v22 h-118.9 Z" fill="#2a78d6"><title>Week of 23 Feb · Work: 36 h (32%)</title></path>
+<text x="131.5" y="527.0" fill="#ffffff" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="central" pointer-events="none">32%</text>
+<path d="M192.9,516 h46.2 v22 h-46.2 Z" fill="#eb6834"><title>Week of 23 Feb · Social: 14 h (12%)</title></path>
+<text x="216.1" y="527.0" fill="#ffffff" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="central" pointer-events="none">12%</text>
+<path d="M241.2,516 h52.9 v22 h-52.9 Z" fill="#1baf7a"><title>Week of 23 Feb · Personal: 16 h (14%)</title></path>
+<text x="267.6" y="527.0" fill="#ffffff" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="central" pointer-events="none">14%</text>
+<path d="M296.0,516 h148.0 a4,4 0 0 1 4,4 v14 a4,4 0 0 1 -4,4 h-148.0 Z" fill="#c3c2b7"><title>Week of 23 Feb · Unplanned: 46 h (41%)</title></path>
+<text x="372.0" y="527.0" fill="#0b0b0b" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="central" pointer-events="none">41%</text>
+<text x="16" y="563.0" fill="#52514e" font-size="12" dominant-baseline="central">2 Mar</text>
+<path d="M72.0,552 h165.2 v22 h-165.2 Z" fill="#2a78d6"><title>Week of 2 Mar · Work: 50 h (45%)</title></path>
+<text x="154.6" y="563.0" fill="#ffffff" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="central" pointer-events="none">45%</text>
+<path d="M239.2,552 h59.5 v22 h-59.5 Z" fill="#eb6834"><title>Week of 2 Mar · Social: 18 h (16%)</title></path>
+<text x="268.9" y="563.0" fill="#ffffff" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="central" pointer-events="none">16%</text>
+<path d="M300.6,552 h72.7 v22 h-72.7 Z" fill="#1baf7a"><title>Week of 2 Mar · Personal: 22 h (20%)</title></path>
+<text x="337.0" y="563.0" fill="#ffffff" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="central" pointer-events="none">20%</text>
+<path d="M375.3,552 h68.7 a4,4 0 0 1 4,4 v14 a4,4 0 0 1 -4,4 h-68.7 Z" fill="#c3c2b7"><title>Week of 2 Mar · Unplanned: 22 h (20%)</title></path>
+<text x="411.7" y="563.0" fill="#0b0b0b" font-size="11" font-weight="600" text-anchor="middle" dominant-baseline="central" pointer-events="none">20%</text>
+<text x="544" y="311.0" fill="#52514e" font-size="11" text-anchor="end" dominant-baseline="central">50% · balanced</text>
+<text x="544" y="347.0" fill="#52514e" font-size="11" text-anchor="end" dominant-baseline="central">25% · quiet</text>
+<text x="544" y="383.0" fill="#52514e" font-size="11" text-anchor="end" dominant-baseline="central">54% · balanced</text>
+<text x="544" y="419.0" fill="#52514e" font-size="11" text-anchor="end" dominant-baseline="central">47% · balanced</text>
+<text x="544" y="455.0" fill="#52514e" font-size="11" text-anchor="end" dominant-baseline="central">54% · balanced</text>
+<text x="544" y="491.0" fill="#52514e" font-size="11" text-anchor="end" dominant-baseline="central">45% · balanced</text>
+<text x="544" y="527.0" fill="#52514e" font-size="11" text-anchor="end" dominant-baseline="central">59% · balanced</text>
+<text x="544" y="563.0" fill="#52514e" font-size="11" text-anchor="end" dominant-baseline="central">80% · packed</text>
+</svg>
